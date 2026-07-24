@@ -8,14 +8,13 @@ chapter: false
 # Báo cáo thực tập
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Lê Hoàng Thanh Phú
+&emsp; **Họ và tên:** Lê Gia Huy
 
-&emsp; **Số điện thoại:** 0938477136
+&emsp; **Số điện thoại:** 0935745633
 
-&emsp; **Email:** thanhphu3082k3@gmail.com
+&emsp; **Email:** legiahuy.12052005nt@gmail.com
 
-&emsp; **Trường:** Đại học Công nghệ TP.HCM (HUTECH)
-
+&emsp; **Trường:** Đại học Văn Lang
 &emsp; **Ngành:** An ninh mạng
 
 &emsp; **Lớp:** 22DTHB6
@@ -24,10 +23,9 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 18/04/2026 đến ngày 12/07/2026
+&emsp; **Thời gian thực tập:** Từ ngày 18/05/2026 đến ngày 24/07/2026
 
-![Ảnh đại diện](/images/avatar.jpg)
-
+<img src="/avatar.png">
 ### Nội dung báo cáo
 
 1. [Nhật ký làm việc (Worklog)](1-Worklog/)
