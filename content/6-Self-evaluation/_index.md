@@ -5,7 +5,7 @@ weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
-During my internship at **Amazon Web Services Vietnam** from **April 18 to July 12, 2026**, I had the incredible opportunity to bridge the gap between academic theory and real-world practice. This experience allowed me to transform my foundational cybersecurity knowledge into production-ready engineering solutions within a world-class cloud ecosystem.
+During my internship at **Amazon Web Services Vietnam** from **May 18 to July 24, 2026**, I had the incredible opportunity to bridge the gap between academic theory and real-world practice. This experience allowed me to transform my foundational cybersecurity knowledge into production-ready engineering solutions within a world-class cloud ecosystem.
 
 As a participant in the **First Cloud AI Journey (Workforce Bootcamp)**, I actively contributed to designing and developing the **PhishShield Ecosystem**—a proactive defense project against social engineering and infostealers. This capstone project significantly leveled up my technical skill set. I gained hands-on experience building secure serverless architectures on AWS (using Lambda, DynamoDB, and API Gateway), programming client-edge proxies (Chrome Extension Manifest V3), automating pipeline audits with a custom Discord Bot, and working with real-time threat modeling and DOM manipulation.
 
