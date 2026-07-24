@@ -1,4 +1,4 @@
-baseURL = "https://le-hoang-thanh-phu-workshop-aws-rzw.vercel.app/"
+baseURL = "https://le-gia-huy-workshop-doanaws-11v838dxb.vercel.app/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -16,7 +16,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "Lê Hoàng Thanh Phú"
+  author = "Lê Gia Huy"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
