@@ -1,4 +1,4 @@
-baseURL = "https://le-gia-huy-workshop-doanaws-pb9x-ckeiqobjs.vercel.app/"
+baseURL = "https://le-gia-huy-workshop-doanaws.vercel.app/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
