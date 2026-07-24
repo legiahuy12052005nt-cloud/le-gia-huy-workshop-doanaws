@@ -15,7 +15,7 @@ chapter: false
 &emsp; **Email:** legiahuy.12052005nt@gmail.com
 
 &emsp; **Trường:** Đại học Văn Lang
-&emsp; **Ngành:** An ninh mạng
+&emsp; **Ngành:** Công nghệ dữ liệu
 
 &emsp; **Lớp:** 22DTHB6
 

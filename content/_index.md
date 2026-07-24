@@ -16,7 +16,7 @@ chapter: false
 
 &emsp; **University:** VanLangUniversity
 
-&emsp; **Major:** Cybersecurity
+&emsp; **Major:** Data Technology
 
 &emsp; **Class:** CNTT02
 
