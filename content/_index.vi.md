@@ -25,8 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 18/05/2026 đến ngày 24/07/2026
 
-![Profile Picture](/images/avatar.jpg)
-### Nội dung báo cáo
+![Profile Picture](/images/avatar.png)
 
 1. [Nhật ký làm việc (Worklog)](1-Worklog/)
 2. [Đề xuất dự án (Proposal)](2-Proposal/)
