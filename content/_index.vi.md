@@ -17,7 +17,7 @@ chapter: false
 &emsp; **Trường:** Đại học Văn Lang
 &emsp; **Ngành:** Công nghệ dữ liệu
 
-&emsp; **Lớp:** 22DTHB6
+&emsp; **Lớp:** CNTT02
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 18/05/2026 đến ngày 24/07/2026
 
-<img src="/avatar.png">
+![Profile Picture](/images/avatar.jpg)
 ### Nội dung báo cáo
 
 1. [Nhật ký làm việc (Worklog)](1-Worklog/)
