@@ -33,3 +33,16 @@ Trong quá trình thực tập, em đã tham gia các events chuyên đề, vớ
 &emsp;**Mô tả ngắn gọn:** Sự kiện đi sâu vào sự phát triển của Agentic AI và các mức độ tự chủ của nó. Giới thiệu Amazon Bedrock AgentCore như một bộ khung hoàn chỉnh để đưa AI vào môi trường thực tế (production), bao gồm các khái niệm như Model Context Protocol (MCP), giao tiếp Agent2Agent (A2A) và môi trường chạy serverless an toàn. Sự kiện cũng cung cấp lộ trình AgentForge 3 ngày để phát triển các hệ thống AI bảo mật.
 
 &emsp;**Kết quả đạt được:** Giúp tôi thay đổi tư duy từ việc chỉ tập trung vào các mô hình AI đơn lẻ sang việc thiết kế các hệ thống AI vận hành mạnh mẽ, có tính kết nối và dễ giám sát. Tôi có được một kế hoạch hành động rõ ràng để xây dựng portfolio: triển khai agent cơ bản, tích hợp công cụ qua MCP, và áp dụng các chính sách bảo mật, tối ưu hóa hệ thống.
+
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** Workshop: Khám phá chuyên sâu chứng chỉ AWS (CLF-C02 & AIF-C01)
+
+&emsp;**Thời gian:** 08:00 Tối, 01/08/2026
+
+&emsp;**Địa điểm:** Google Meet (Trực tuyến)
+
+&emsp;**Vai trò:** Người tham dự
+
+&emsp;**Mô tả ngắn gọn:** Sự kiện cung cấp phân tích toàn diện về cấu trúc kỳ thi chứng chỉ AWS Certified Cloud Practitioner (CLF-C02) và AI Practitioner (AIF-C01). Bao quát các khái niệm cốt lõi của AWS Cloud như hạ tầng toàn cầu, tính sẵn sàng cao và tính co giãn. Đồng thời khám phá 6 khía cạnh của Khung áp dụng đám mây (AWS CAF), tối ưu hóa chi phí thông qua rightsizing, và Mô hình Trách nhiệm Chung về bảo mật và tuân thủ.
+
+&emsp;**Kết quả đạt được:** Hiểu sâu hơn về các quyết định thiết kế kiến trúc có khả năng chịu lỗi và mở rộng. Tôi có được một lộ trình bài bản, đúng trọng tâm để chuẩn bị ôn thi và thu được những góc nhìn thực tiễn trong việc áp dụng nguyên lý "rightsizing" để liên tục theo dõi và tránh cấp phát thừa tài nguyên trong các dự án thực hành AWS cá nhân.
